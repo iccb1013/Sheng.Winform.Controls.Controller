@@ -5,7 +5,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Diagnostics;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     class TypeBinderTabPage : TabPage
     {

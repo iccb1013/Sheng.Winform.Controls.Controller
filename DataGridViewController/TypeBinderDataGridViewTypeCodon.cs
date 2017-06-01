@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using System.Collections;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     public class TypeBinderDataGridViewTypeCodon : ITypeBinderDataGridViewTypeCodon
     {

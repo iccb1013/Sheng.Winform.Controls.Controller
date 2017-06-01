@@ -5,7 +5,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Diagnostics;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     /*
      *  把每个tab页在内部和一个类型关系起来，对外接口直接以类型替代tab页进行操作

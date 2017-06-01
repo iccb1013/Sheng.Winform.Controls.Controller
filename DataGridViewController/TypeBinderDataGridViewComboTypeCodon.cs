@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using System.Collections;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     /// <summary>
     /// 复合显示多种类型的对象（同时在列表中显示多个类型的对象）

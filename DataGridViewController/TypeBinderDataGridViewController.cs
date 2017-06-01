@@ -7,7 +7,7 @@ using System.Windows.Forms;
 using System.ComponentModel;
 using System.Collections;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     /* 主要功能：
      * 可用于呈现多种类型数据的DataGridView控制类

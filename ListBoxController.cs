@@ -7,7 +7,7 @@ using System.Windows.Forms;
 using System.ComponentModel;
 using System.Collections;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     /*
      * MSDN ListBox:

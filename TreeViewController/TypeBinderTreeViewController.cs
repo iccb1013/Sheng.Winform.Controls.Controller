@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using System.Collections;
 using System.Diagnostics;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     /*
      * 关于树节点上显示的图标

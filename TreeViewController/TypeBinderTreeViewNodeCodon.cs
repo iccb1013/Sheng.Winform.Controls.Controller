@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using System.Collections;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     /// <summary>
     /// 描述用于绑定到树节点的对象类型

@@ -5,7 +5,7 @@ using System.Text;
 using System.Collections;
 using System.Windows.Forms;
 
-namespace Sheng.SailingEase.Kernal
+namespace Sheng.Winform.Controls.Controller
 {
     public interface ITypeBinderTreeViewNode
     {
