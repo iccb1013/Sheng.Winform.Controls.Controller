@@ -19,5 +19,5 @@ Sheng.Winform.Controls.Controller 使用控制器，来为这些控制提供这�
 + TreeViewController
 + ListBoxController
 
-详细说明可访问：http://sheng.city/post/github-winform-wpf-sheng-winform-controls-controller
+详细说明可访问：https://shengxunwei.com
 
