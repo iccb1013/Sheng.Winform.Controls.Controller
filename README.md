@@ -1,33 +1,26 @@
 # Sheng.Winform.Controls.Controller
 
-请访问原版代码库，以获得最新更新:https://github.com/iccb1013/Sheng.Winform.Controls.Controller
+cao.silhouette@msn.com  
 
-MIT 协议开源，可以随意使用，但是需在源代码和产品关于画面保留版权声明和我的网站链接，谢谢。
+Please visit the original code repository for the latest updates: https://github.com/iccb1013/Sheng.Winform.Controls.Controller
 
-在我们的客户端应用程序开发中，可能会涉及大量的控件操作的代码，如 TreeView，DataGridView，ListBox 等等，这些控件虽然都提供了基本的数据操作接口，但是这些接口的功能都非常的基础和简单，考虑如下操作：
+It is open-source under the MIT License, and you are free to use it. However, you must retain the copyright notice and the link to my website in the source code and product screens. Thank you.
 
-+ 在控件中使指定的数据处于选中状态；
-+ 在控件中删除符合条件的数据；
-+ 向控件中的指定位置添加数据，并判断数据的类型是否符合预期；
-+ 在控件中查找符合条件的数据；
-+ 获取控件中选中的数据，直接返回强类型结果；
-+ 移动指定的数据到另一个数据项目之前/之后；
-+ 展开树控件中符合条件的树节点；
+In our client application development, we may have a lot of code related to control operations, such as TreeView, DataGridView, ListBox, etc. While these controls provide basic data operation interfaces, the functionality of these interfaces is quite basic and simple. Consider the following operations:
 
-这些操作有一个重要的共同点，都是针对“数据”进行操作，但是基本的的控件接口，没有这么多功能，既有的接口也多是以 object 作为参数来操作的，如果要实现这些功能，很多时候程序员需要写一些“业务代码”来完成，在业务代码中迭代数据源，写条件判断，做类型转换，最后调用控件的基本操作接口。
+- Make specified data in the control selected;
+- Delete data that meets certain conditions in the control;
+- Add data to a specified position in the control, and check if the data type is as expected;
+- Search for data that meets certain conditions in the control;
+- Get the selected data in the control and directly return a strongly typed result;
+- Move specified data before/after another data item;
+- Expand tree nodes that meet certain conditions in the tree control;
 
-Sheng.Winform.Controls.Controller 使用控制器，来为这些控制提供这些共通的操作，包括：
+These operations share a common characteristic—they all operate on "data." However, the basic control interfaces don't offer such features. Most of the existing interfaces use 'object' as parameters for operations. To implement these features, programmers often need to write "business logic" to iterate through the data source, add condition checks, perform type conversions, and then call the basic control operation interfaces.
 
-+ DataGridViewController
-+ TabControlController
-+ TreeViewController
-+ ListBoxController
+Sheng.Winform.Controls.Controller uses controllers to provide these common operations for these controls, including:
 
-详细说明请浏览：
-https://shengxunwei.com
-
-曹旭升  
-QQ:279060597  
-Email：cao.silhouette@msn.com  
-@南京 
-
+- DataGridViewController
+- TabControlController
+- TreeViewController
+- ListBoxController
