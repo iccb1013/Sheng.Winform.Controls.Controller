@@ -1,7 +1,7 @@
 # Sheng.Winform.Controls.Controller
 
 🙋‍♂️ https://me.shendesk.com
-📨 cao.silhouette@msn.com
+📨 cao.silhouette@gmail.com
 
 Please visit the original code repository for the latest updates: https://github.com/iccb1013/Sheng.Winform.Controls.Controller
 
